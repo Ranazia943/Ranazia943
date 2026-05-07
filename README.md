@@ -1,48 +1,146 @@
-# 👋 Hi there, I'm Rana M. Zia!
+# 👋 Hi there, I'm Muhammad Zia!
 
-I'm a full-stack developer passionate about building scalable web applications and integrating intelligent AI features into modern software. I specialize in the **MERN stack, Next.js, and PHP/MySQL**, and I actively experiment with advanced AI tools like **GPT-4**, custom LLMs, and scalable cloud deployments.
+**Founder & CEO at Greatodeal AI Automation Solutions** | Full-Stack Developer | AI Integration Expert
+
+I'm a passionate full-stack developer and entrepreneur focused on building **AI-powered SaaS platforms** that solve real business problems. I lead **Greatodeal AI Automation**, where we deliver custom software solutions, intelligent automation, and scalable web applications for businesses worldwide.
 
 ---
 
-## 👀 Interests
-- Full-stack development: MongoDB, Express.js, React, Node.js, Next.js, PHP/MySQL
-- AI/LLM integration: OpenAI, GPT-4, custom models, AI-powered tools
-- Scalable cloud & serverless: AWS, Firebase, VPS hosting
-- Real-time applications: Socket.IO, chat systems, live updates
-- Frontend frameworks: TailwindCSS, Context API, Redux, Redux Toolkit, Zustand
-- Blockchain basics and decentralized applications (DApps)
-- State management & performance optimization for large-scale apps
+## 🏢 What I Do
+
+**Founder & CEO** @ [Greatodeal AI Automation Solutions](https://greatodeal.com)
+- Leading a team of developers building AI-powered platforms
+- Delivering enterprise-grade SaaS solutions for global clients
+- Specializing in government contracting platforms, AI career coaches, and real-time communication systems
+
+---
+
+## 💻 Technical Expertise
+
+### Frontend
+```
+React 18/19, Next.js 14, Tailwind CSS, Redux Toolkit, Zustand, Context API, Material-UI
+```
+
+### Backend
+```
+Node.js, Express.js, PHP/MySQL, REST APIs, GraphQL, Socket.IO, JWT Authentication
+```
+
+### Databases
+```
+MongoDB, PostgreSQL, MySQL, Firebase, Redis
+```
+
+### AI & LLM Integration
+```
+OpenAI GPT-4, Google Gemini AI, Custom LLM Fine-tuning, LangChain, Vector Databases, AI Agents
+```
+
+### Cloud & DevOps
+```
+AWS (EC2, S3, Lambda), Vercel, Netlify, Docker, PM2, Nginx, GitHub Actions CI/CD
+```
+
+### Real-time Systems
+```
+Socket.IO, WebRTC, Twilio API, Live Chat, Video/Audio Calls
+```
+
+### Payment Gateways
+```
+Stripe, PayPal, Payoneer, Credit Card Processing, Subscription Billing
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **FedVantage/Sambid** | AI-powered government contract intelligence platform | React, Node.js, MongoDB, SAM.gov API, Google Gemini |
+| **Psychic Call System** | Real-time chat & call platform with Stripe integration | Socket.IO, Twilio, Stripe, MERN |
+| **AI Career Coach** | AI career guidance with skill assessment & future scope prediction | Google Gemini AI, MERN, Web Scraping |
+| **Real Estate Platform** | Property buying/selling/rental marketplace | MERN Stack, Maps API |
+| **Investment Platform** | Daily earnings, affiliate system, admin dashboard | MERN, Payment Gateway |
+
+---
+
+## 🎯 What I Build
+- ✅ AI-powered SaaS platforms
+- ✅ Real-time chat & call systems (Socket.IO, Twilio, WebRTC)
+- ✅ Government contracting & procurement software
+- ✅ Career guidance & skill assessment tools
+- ✅ Investment & earning platforms with affiliate systems
+- ✅ Booking & service marketplaces
+- ✅ Admin dashboards with analytics
+- ✅ Subscription & payment systems (Stripe, PayPal, Payoneer)
 
 ---
 
 ## 🌱 Currently Learning
-- Cloud-native architecture and containerization (Docker, Kubernetes)
-- Advanced AI deployment and inference optimization (LangChain, vector DBs)
-- MLOps and model lifecycle management
-- Python for AI workflows and automation
-- Blockchain fundamentals (smart contracts, Ethereum)
+- LangChain & Agentic AI workflows
+- Vector Databases (Pinecone, Weaviate)
+- MLOps & Model Deployment
+- Docker & Kubernetes orchestration
+- Blockchain & Smart Contracts (Ethereum, Solidity)
 
 ---
 
-## 💬 Let's Collaborate On
-- AI-powered full-stack web apps
-- Real-time assistants and intelligent automation tools
-- MERN/Next.js open source contributions
-- Frontend engineering using Zustand, Redux Toolkit, and TailwindCSS
-- Blockchain DApp prototypes
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranazia943&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranazia943&layout=compact&theme=dark)
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: rana.zia.codesmart@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ranazia](https://www.linkedin.com/in/ranazia)
-- 💬 Stack Overflow: [Rana M. Zia on Stack Overflow](https://stackoverflow.com/users/19952059/rana-m-zia?tab=profile)
+## 📫 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Website** | [https://greatodeal.com](https://greatodeal.com) |
+| 📧 **Email** | zia@greatodeal.com |
+| 💼 **LinkedIn** | [linkedin.com/in/ranazia](https://www.linkedin.com/in/ranazia) |
+| 🟢 **Upwork** | Greatodeal AI Automation |
+| 💬 **Stack Overflow** | [Rana M. Zia](https://stackoverflow.com/users/19952059/rana-m-zia) |
+| 🐙 **GitHub** | [@Ranazia943](https://github.com/Ranazia943) |
 
 ---
 
-## 😄 Pronouns
-He/Him
+## 📈 Business Stats
 
-## ⚡ Fun Fact
-I'm building AI tools that blend chat, content creation, and user context awareness — powered by **Socket.IO**, efficient state management, and scalable backend systems.
+| Metric | Value |
+|--------|-------|
+| **Projects Completed** | 15+ |
+| **Years Experience** | 5+ |
+| **Technologies** | 30+ |
+| **Clients Served** | 10+ (USA, Pakistan, International) |
+| **Lines of Code** | 100,000+ |
 
+---
+
+## 💡 Let's Collaborate On
+- 🤖 AI-powered SaaS applications
+- 📡 Real-time communication platforms
+- 🏛️ Government & enterprise software
+- 💳 Payment-integrated marketplaces
+- 🎯 Career & skill development tools
+- 🔄 Scalable full-stack solutions
+
+---
+
+## 🔥 Fun Fact
+I'm building AI tools that combine **real-time chat, intelligent automation, and user context awareness** — powered by Socket.IO, efficient state management, and scalable backend systems for global clients.
+
+---
+
+## ⚡ My Philosophy
+> *"Building scalable, AI-powered solutions that solve real business problems and create lasting impact for clients worldwide."*
+
+---
+
+**⭐ Star my repos if you find them useful!**
+
+---
+
+*Last updated: May 2026* 🚀
