@@ -61,6 +61,7 @@ Stripe, PayPal, Payoneer, Credit Card Processing, Subscription Billing
 | **FedVantage/Sambid** | AI-powered government contract intelligence platform | React, Node.js, MongoDB, SAM.gov API, Google Gemini |
 | **Psychic Call System** | Real-time chat & call platform with Stripe integration | Socket.IO, Twilio, Stripe, MERN |
 | **AI Career Coach** | AI career guidance with skill assessment & future scope prediction | Google Gemini AI, MERN, Web Scraping |
+| **AI Astrology & Tarot Platform** | PDF reports generation, love/compatibility analysis, AI chatbot + Human chatbot psychics platform | React, Node.js, OpenAI, PDF Generation, Real-time Chat |
 | **Real Estate Platform** | Property buying/selling/rental marketplace | MERN Stack, Maps API |
 | **Investment Platform** | Daily earnings, affiliate system, admin dashboard | MERN, Payment Gateway |
 
@@ -71,6 +72,7 @@ Stripe, PayPal, Payoneer, Credit Card Processing, Subscription Billing
 - ✅ Real-time chat & call systems (Socket.IO, Twilio, WebRTC)
 - ✅ Government contracting & procurement software
 - ✅ Career guidance & skill assessment tools
+- ✅ AI Astrology, Tarot, Numerology platforms with PDF reports
 - ✅ Investment & earning platforms with affiliate systems
 - ✅ Booking & service marketplaces
 - ✅ Admin dashboards with analytics
@@ -101,21 +103,9 @@ Stripe, PayPal, Payoneer, Credit Card Processing, Subscription Billing
 | 🌐 **Website** | [https://greatodeal.com](https://greatodeal.com) |
 | 📧 **Email** | zia@greatodeal.com |
 | 💼 **LinkedIn** | [linkedin.com/in/ranazia](https://www.linkedin.com/in/ranazia) |
-| 🟢 **Upwork** | Greatodeal AI Automation |
+| 🟢 **Upwork** | [Greatodeal AI Automation on Upwork](https://www.upwork.com/freelancers/~01greatodeal) |
 | 💬 **Stack Overflow** | [Rana M. Zia](https://stackoverflow.com/users/19952059/rana-m-zia) |
 | 🐙 **GitHub** | [@Ranazia943](https://github.com/Ranazia943) |
-
----
-
-## 📈 Business Stats
-
-| Metric | Value |
-|--------|-------|
-| **Projects Completed** | 15+ |
-| **Years Experience** | 5+ |
-| **Technologies** | 30+ |
-| **Clients Served** | 10+ (USA, Pakistan, International) |
-| **Lines of Code** | 100,000+ |
 
 ---
 
@@ -126,6 +116,7 @@ Stripe, PayPal, Payoneer, Credit Card Processing, Subscription Billing
 - 💳 Payment-integrated marketplaces
 - 🎯 Career & skill development tools
 - 🔄 Scalable full-stack solutions
+- 🔮 AI Astrology, Tarot, Numerology platforms
 
 ---
 
