@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muhammad Zia!
+# 👋 Hi there, I'm Rana M.Zia!
 
 **Founder & CEO at Greatodeal AI Automation Solutions** | Full-Stack Developer | AI Integration Expert
 
