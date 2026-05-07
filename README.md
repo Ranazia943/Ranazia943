@@ -103,7 +103,7 @@ Stripe, PayPal, Payoneer, Credit Card Processing, Subscription Billing
 | 🌐 **Website** | [https://greatodeal.com](https://greatodeal.com) |
 | 📧 **Email** | zia@greatodeal.com |
 | 💼 **LinkedIn** | [linkedin.com/in/ranazia](https://www.linkedin.com/in/ranazia) |
-| 🟢 **Upwork** | [Greatodeal AI Automation on Upwork](https://www.upwork.com/freelancers/~01greatodeal) |
+| 🟢 **Upwork** | [https://www.upwork.com/freelancers/~01d2cc5e15c0d2e4f1) |
 | 💬 **Stack Overflow** | [Rana M. Zia](https://stackoverflow.com/users/19952059/rana-m-zia) |
 | 🐙 **GitHub** | [@Ranazia943](https://github.com/Ranazia943) |
 
